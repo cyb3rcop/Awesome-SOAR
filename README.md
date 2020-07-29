@@ -653,7 +653,7 @@
   - **[USER FORUM LINKS]** 
     - [LogRhythm User Forum](https://logrhythmcommunity.force.com/)
   - **[APP DEVELOPMENT LINKS]**
-    - [LogRhythm Apps on Github](https://github.com/LogRhythm-Labs)
+    - [LogRhythm Apps on Github](https://github.com/LogRhythm-Labs) 
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
     - [LogRhythm Feature Requests](https://logrhythmcommunity.force.com/)
   - **[REDDIT COMMUNITY LINKS]**
